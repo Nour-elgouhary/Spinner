@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="names">
+        <item>Choose the Pharmacy</item>
+        <item>Pharma1</item>
+        <item>Pharma2</item>
+        <item>Pharma3</item>
+    </string-array>
+
+</resources>
